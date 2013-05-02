@@ -8,7 +8,7 @@ The RBelly library will parse JavaScript and Bellejs and return a parse tree.
 
 == Acknowledgments
 
-99.5% of the code here is from rKelly.
+95% of the code here is from rKelly written by Aaron Patterson.
 * http://rkelly.rubyforge.org/
 
 == License (from RKelly)
